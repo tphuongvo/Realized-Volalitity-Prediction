@@ -1,6 +1,6 @@
 # Realized-Volalitity-Prediction
 Final project in Machine Learning course 2022 at VEF Academy.  
-Contributor: Vu Thi Thu Hang    
+Contributor: Vu Thi Kim Hang    
 
 Datasets and metrics are from Optiver's competition on Kaggle platform.  
 Competition Page: https://www.kaggle.com/c/optiver-realized-volatility-prediction/  
